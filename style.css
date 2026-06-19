@@ -1,6 +1,6 @@
 body {
     margin: 0px;
-    background-color: rgb(135, 206, 230);
+    background: linear-gradient(lightblue,pink);
     font-family: "Happy Monkey", system-ui;
 }
 
